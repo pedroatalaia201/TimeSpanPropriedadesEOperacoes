@@ -1,0 +1,13 @@
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\bin\Debug\netcoreapp3.1\PropriedadesEOperacoes.exe
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\bin\Debug\netcoreapp3.1\PropriedadesEOperacoes.deps.json
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\bin\Debug\netcoreapp3.1\PropriedadesEOperacoes.runtimeconfig.json
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\bin\Debug\netcoreapp3.1\PropriedadesEOperacoes.runtimeconfig.dev.json
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\bin\Debug\netcoreapp3.1\PropriedadesEOperacoes.dll
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\bin\Debug\netcoreapp3.1\PropriedadesEOperacoes.pdb
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\obj\Debug\netcoreapp3.1\PropriedadesEOperacoes.csprojAssemblyReference.cache
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\obj\Debug\netcoreapp3.1\PropriedadesEOperacoes.AssemblyInfoInputs.cache
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\obj\Debug\netcoreapp3.1\PropriedadesEOperacoes.AssemblyInfo.cs
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\obj\Debug\netcoreapp3.1\PropriedadesEOperacoes.csproj.CoreCompileInputs.cache
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\obj\Debug\netcoreapp3.1\PropriedadesEOperacoes.dll
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\obj\Debug\netcoreapp3.1\PropriedadesEOperacoes.pdb
+C:\Pedro\Curso-C#\aulas\aula92-TimeSpan-PropriedadeseOperacoes\PropriedadesEOperacoesTS\PropriedadesEOperacoes\obj\Debug\netcoreapp3.1\PropriedadesEOperacoes.genruntimeconfig.cache
